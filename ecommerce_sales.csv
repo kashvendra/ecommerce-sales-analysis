@@ -1,0 +1,275 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Customer_Segment,Region,State,City,Category,Sub_Category,Product_Name,Quantity,Unit_Price,Discount_%,Sales_Amount,Profit,Shipping_Cost,Ship_Mode
+ORD-1001,13-01-2024,CUST007,Deepak Gupta,Home Office,South,Karnataka,Bengaluru,Electronics,Mobiles,OnePlus 11,4,40000,0.1,144000,31228.09,292.38,Same Day
+ORD-1002,07-01-2024,CUST014,Divya Chauhan,Home Office,South,Tamil Nadu,Coimbatore,Home & Kitchen,Furniture,Study Table,4,6000,0.15,20400,2362.32,305.11,Standard Class
+ORD-1003,23-01-2024,CUST017,Arjun Malhotra,Home Office,North,Uttar Pradesh,Agra,Clothing,Men,Men Jacket,5,3500,0,17500,2888.22,213.14,Standard Class
+ORD-1004,15-01-2024,CUST017,Arjun Malhotra,Consumer,West,Maharashtra,Pune,Electronics,Mobiles,Samsung S23,4,55000,0.1,198000,52463.94,129.93,Second Class
+ORD-1005,02-01-2024,CUST004,Sneha Verma,Consumer,South,Tamil Nadu,Madurai,Clothing,Men,Men Shoes,1,2800,0,2800,397.49,52.55,First Class
+ORD-1006,05-01-2024,CUST017,Arjun Malhotra,Corporate,South,Karnataka,Mangaluru,Electronics,Laptops,Lenovo IdeaPad,5,45000,0.05,213750,52374.47,106.86,Same Day
+ORD-1007,02-01-2024,CUST005,Amit Singh,Home Office,South,Telangana,Warangal,Electronics,Mobiles,iPhone 14,2,75000,0,150000,17224.05,129.94,Second Class
+ORD-1008,07-01-2024,CUST018,Riya Kapoor,Corporate,West,Maharashtra,Pune,Electronics,Laptops,HP Pavilion,1,50000,0.1,45000,6189.43,313.56,Standard Class
+ORD-1009,11-01-2024,CUST007,Deepak Gupta,Corporate,West,Gujarat,Surat,Clothing,Women,Women Saree,5,3500,0,17500,2034.29,66.92,First Class
+ORD-1010,24-01-2024,CUST013,Sanjay Yadav,Corporate,South,Tamil Nadu,Madurai,Electronics,Accessories,Power Bank,1,1200,0.2,960,208.87,191.27,Second Class
+ORD-1011,13-01-2024,CUST010,Pooja Reddy,Corporate,North,Uttar Pradesh,Kanpur,Clothing,Men,Men Kurta,3,1500,0.15,3825,975.06,404.69,Second Class
+ORD-1012,09-01-2024,CUST014,Divya Chauhan,Corporate,West,Rajasthan,Jaipur,Clothing,Women,Women Blazer,5,3200,0.15,13600,3032.33,137.51,First Class
+ORD-1013,07-01-2024,CUST012,Meera Iyer,Consumer,East,Bihar,Gaya,Electronics,Accessories,Smartwatch,3,8000,0.15,20400,3332.19,388.69,Second Class
+ORD-1014,14-01-2024,CUST012,Meera Iyer,Home Office,West,Maharashtra,Mumbai,Home & Kitchen,Decor,Photo Frame,1,600,0.1,540,76.74,352.54,Second Class
+ORD-1015,17-01-2024,CUST015,Nikhil Bose,Consumer,East,Bihar,Gaya,Clothing,Kids,Kids Jacket,5,1800,0.2,7200,1485.64,394.27,First Class
+ORD-1016,07-01-2024,CUST024,Nisha Tiwari,Consumer,North,Uttar Pradesh,Lucknow,Home & Kitchen,Furniture,Office Chair,4,8500,0,34000,5230.74,300.75,First Class
+ORD-1017,07-01-2024,CUST025,Aditya Bhatt,Consumer,West,Gujarat,Ahmedabad,Clothing,Women,Women Saree,2,3500,0,7000,1822.47,440.57,Same Day
+ORD-1018,14-01-2024,CUST018,Riya Kapoor,Home Office,South,Tamil Nadu,Coimbatore,Electronics,Laptops,MacBook Air,5,115000,0.2,460000,118658.26,222.19,Same Day
+ORD-1019,19-01-2024,CUST021,Karan Oberoi,Corporate,South,Karnataka,Mangaluru,Electronics,Laptops,Asus VivoBook,1,42000,0,42000,6129.87,272.36,First Class
+ORD-1020,21-01-2024,CUST024,Nisha Tiwari,Consumer,East,Bihar,Patna,Home & Kitchen,Appliances,Toaster,3,2200,0,6600,707.72,464,Same Day
+ORD-1021,02-01-2024,CUST002,Priya Patel,Corporate,South,Telangana,Warangal,Electronics,Laptops,Dell Inspiron,4,55000,0,220000,53035.59,102.73,Second Class
+ORD-1022,09-01-2024,CUST009,Vikram Joshi,Home Office,East,West Bengal,Siliguri,Electronics,Accessories,Smartwatch,3,8000,0.15,20400,5548.64,290.73,Standard Class
+ORD-1023,24-01-2024,CUST005,Amit Singh,Consumer,South,Telangana,Hyderabad,Electronics,Accessories,USB Hub,2,800,0,1600,406.68,372.62,Second Class
+ORD-1024,11-01-2024,CUST025,Aditya Bhatt,Consumer,East,Bihar,Gaya,Electronics,Laptops,HP Pavilion,1,50000,0,50000,8965.57,484.99,Standard Class
+ORD-1025,13-02-2024,CUST022,Shruti Agarwal,Consumer,South,Telangana,Warangal,Home & Kitchen,Decor,Wall Clock,2,1500,0.2,2400,271.91,249.77,First Class
+ORD-1026,11-02-2024,CUST019,Manoj Das,Consumer,West,Maharashtra,Pune,Electronics,Mobiles,iPhone 14,3,75000,0.2,180000,34416.1,180.55,Same Day
+ORD-1027,14-02-2024,CUST003,Rohit Kumar,Consumer,East,West Bengal,Siliguri,Home & Kitchen,Appliances,Electric Kettle,3,1800,0.2,4320,1061.9,65.56,First Class
+ORD-1028,20-02-2024,CUST008,Anita Mehta,Home Office,South,Telangana,Hyderabad,Clothing,Kids,Kids Shoes,4,1000,0.1,3600,803.24,398.63,Second Class
+ORD-1029,17-02-2024,CUST014,Divya Chauhan,Consumer,South,Karnataka,Mangaluru,Clothing,Men,Men Kurta,1,1500,0.05,1425,115.23,474.62,Second Class
+ORD-1030,05-02-2024,CUST006,Kavya Nair,Home Office,East,West Bengal,Asansol,Electronics,Accessories,USB Hub,2,800,0,1600,426.45,66.02,Same Day
+ORD-1031,15-02-2024,CUST003,Rohit Kumar,Consumer,South,Tamil Nadu,Coimbatore,Electronics,Laptops,Asus VivoBook,1,42000,0,42000,7576.48,154.68,Same Day
+ORD-1032,07-02-2024,CUST023,Ravi Shankar,Consumer,West,Rajasthan,Jaipur,Electronics,Mobiles,Redmi Note 12,2,18000,0,36000,8934.49,165.44,Standard Class
+ORD-1033,08-02-2024,CUST008,Anita Mehta,Home Office,South,Telangana,Warangal,Clothing,Kids,Kids Jacket,1,1800,0,1800,234.18,395.2,First Class
+ORD-1034,16-02-2024,CUST007,Deepak Gupta,Consumer,North,Delhi,Dwarka,Electronics,Laptops,HP Pavilion,1,50000,0.15,42500,5889.25,170.7,First Class
+ORD-1035,01-02-2024,CUST019,Manoj Das,Home Office,East,West Bengal,Siliguri,Clothing,Men,Men Jeans,3,2500,0.05,7125,772.77,187.28,First Class
+ORD-1036,07-02-2024,CUST015,Nikhil Bose,Consumer,North,Uttar Pradesh,Noida,Electronics,Accessories,Wireless Earbuds,4,3500,0,14000,2124.74,193.09,Same Day
+ORD-1037,08-02-2024,CUST018,Riya Kapoor,Consumer,North,Delhi,New Delhi,Electronics,Mobiles,Samsung S23,3,55000,0.1,148500,19480.81,473.64,Standard Class
+ORD-1038,14-02-2024,CUST004,Sneha Verma,Home Office,West,Maharashtra,Nagpur,Home & Kitchen,Appliances,Toaster,4,2200,0.1,7920,2021.31,395.45,First Class
+ORD-1039,11-02-2024,CUST023,Ravi Shankar,Corporate,North,Uttar Pradesh,Noida,Electronics,Mobiles,Samsung S23,3,55000,0,165000,33690.32,171.94,First Class
+ORD-1040,20-02-2024,CUST020,Geeta Mishra,Consumer,South,Tamil Nadu,Madurai,Clothing,Kids,Kids T-Shirt,5,600,0.15,2550,337.58,399.52,Standard Class
+ORD-1041,24-02-2024,CUST001,Aarav Sharma,Corporate,West,Rajasthan,Jodhpur,Clothing,Women,Women Blazer,2,3200,0.1,5760,1259.91,465.17,Standard Class
+ORD-1042,10-02-2024,CUST013,Sanjay Yadav,Consumer,North,Punjab,Ludhiana,Clothing,Kids,Kids Shoes,3,1000,0.1,2700,261.96,58.93,Standard Class
+ORD-1043,21-02-2024,CUST005,Amit Singh,Corporate,South,Tamil Nadu,Madurai,Home & Kitchen,Decor,Table Lamp,1,1800,0,1800,187.69,194.19,Second Class
+ORD-1044,22-02-2024,CUST021,Karan Oberoi,Consumer,North,Uttar Pradesh,Agra,Electronics,Mobiles,OnePlus 11,2,40000,0.15,68000,11089.05,189.39,Second Class
+ORD-1045,25-02-2024,CUST014,Divya Chauhan,Corporate,North,Delhi,Dwarka,Home & Kitchen,Appliances,Electric Kettle,2,1800,0.2,2880,388.3,105.64,Standard Class
+ORD-1046,16-03-2024,CUST013,Sanjay Yadav,Consumer,East,Bihar,Gaya,Electronics,Accessories,Power Bank,4,1200,0,4800,864.1,335.53,Same Day
+ORD-1047,10-03-2024,CUST005,Amit Singh,Consumer,East,Bihar,Patna,Home & Kitchen,Furniture,Bed Frame,3,18000,0.1,48600,8903.97,152.06,Same Day
+ORD-1048,26-03-2024,CUST005,Amit Singh,Home Office,North,Uttar Pradesh,Kanpur,Home & Kitchen,Furniture,Office Chair,4,8500,0,34000,5615.16,98,Standard Class
+ORD-1049,07-03-2024,CUST003,Rohit Kumar,Consumer,East,West Bengal,Kolkata,Electronics,Accessories,Power Bank,3,1200,0,3600,882.87,354.47,Second Class
+ORD-1050,03-03-2024,CUST020,Geeta Mishra,Consumer,East,West Bengal,Kolkata,Clothing,Women,Women Saree,5,3500,0,17500,2950.52,484.85,Same Day
+ORD-1051,18-03-2024,CUST020,Geeta Mishra,Corporate,South,Tamil Nadu,Chennai,Electronics,Accessories,Power Bank,5,1200,0.15,5100,1340.21,432.87,Same Day
+ORD-1052,23-03-2024,CUST016,Sunita Pandey,Consumer,East,Bihar,Patna,Home & Kitchen,Decor,Table Lamp,3,1800,0,5400,449.73,317.07,Second Class
+ORD-1053,05-03-2024,CUST014,Divya Chauhan,Consumer,North,Punjab,Ludhiana,Home & Kitchen,Decor,Cushion Set,3,1200,0,3600,686.57,361.87,Standard Class
+ORD-1054,24-03-2024,CUST018,Riya Kapoor,Corporate,North,Punjab,Ludhiana,Clothing,Men,Men Jeans,1,2500,0,2500,514.37,263.68,Same Day
+ORD-1055,28-03-2024,CUST018,Riya Kapoor,Home Office,West,Gujarat,Vadodara,Home & Kitchen,Appliances,Electric Kettle,1,1800,0,1800,497.44,208.28,Standard Class
+ORD-1056,09-03-2024,CUST022,Shruti Agarwal,Consumer,North,Uttar Pradesh,Kanpur,Clothing,Kids,Kids Jeans,5,1200,0,6000,1205.3,489.51,First Class
+ORD-1057,14-03-2024,CUST005,Amit Singh,Consumer,South,Tamil Nadu,Madurai,Home & Kitchen,Furniture,Bed Frame,5,18000,0.1,81000,10728.58,161.13,Second Class
+ORD-1058,09-03-2024,CUST010,Pooja Reddy,Corporate,West,Maharashtra,Pune,Electronics,Laptops,HP Pavilion,4,50000,0.15,170000,15854.03,445.87,Second Class
+ORD-1059,25-03-2024,CUST017,Arjun Malhotra,Consumer,South,Tamil Nadu,Chennai,Clothing,Kids,Kids Jeans,3,1200,0.2,2880,656.84,489.72,Standard Class
+ORD-1060,01-03-2024,CUST007,Deepak Gupta,Home Office,North,Uttar Pradesh,Noida,Home & Kitchen,Decor,Curtains,4,2500,0.15,8500,1901,147.48,Standard Class
+ORD-1061,20-03-2024,CUST008,Anita Mehta,Consumer,West,Maharashtra,Mumbai,Home & Kitchen,Appliances,Electric Kettle,5,1800,0,9000,2106.34,375.04,Standard Class
+ORD-1062,10-03-2024,CUST002,Priya Patel,Home Office,North,Punjab,Amritsar,Home & Kitchen,Appliances,Electric Kettle,4,1800,0.2,5760,617.68,308.25,Second Class
+ORD-1063,23-03-2024,CUST002,Priya Patel,Corporate,East,Bihar,Patna,Home & Kitchen,Appliances,Electric Kettle,2,1800,0.1,3240,423.83,428.38,Same Day
+ORD-1064,23-03-2024,CUST014,Divya Chauhan,Home Office,East,Bihar,Gaya,Clothing,Men,Men Kurta,2,1500,0.2,2400,660.24,366.06,Second Class
+ORD-1065,06-03-2024,CUST022,Shruti Agarwal,Home Office,North,Delhi,Rohini,Electronics,Laptops,Lenovo IdeaPad,3,45000,0.05,128250,19454.83,122.61,First Class
+ORD-1066,12-03-2024,CUST006,Kavya Nair,Consumer,South,Telangana,Warangal,Clothing,Women,Women Shoes,3,2400,0.15,6120,1262.69,197.48,Second Class
+ORD-1067,23-03-2024,CUST020,Geeta Mishra,Consumer,West,Rajasthan,Jaipur,Clothing,Men,Men Kurta,1,1500,0.2,1200,261.03,493.42,Same Day
+ORD-1068,11-04-2024,CUST011,Rahul Tiwari,Consumer,North,Delhi,New Delhi,Home & Kitchen,Furniture,Sofa,2,25000,0,50000,11122.31,481.7,Second Class
+ORD-1069,11-04-2024,CUST003,Rohit Kumar,Consumer,North,Punjab,Amritsar,Electronics,Accessories,USB Hub,4,800,0,3200,722.61,167.82,First Class
+ORD-1070,17-04-2024,CUST001,Aarav Sharma,Consumer,West,Rajasthan,Jodhpur,Clothing,Women,Women Kurti,5,900,0,4500,793.09,218.47,Second Class
+ORD-1071,16-04-2024,CUST015,Nikhil Bose,Corporate,South,Tamil Nadu,Madurai,Home & Kitchen,Appliances,Induction Cooktop,5,4000,0,20000,3743.01,326.59,Standard Class
+ORD-1072,16-04-2024,CUST002,Priya Patel,Home Office,West,Maharashtra,Mumbai,Clothing,Women,Women Dress,4,2200,0.05,8360,2154.7,191.47,Standard Class
+ORD-1073,24-04-2024,CUST007,Deepak Gupta,Consumer,North,Punjab,Ludhiana,Home & Kitchen,Furniture,Office Chair,2,8500,0.1,15300,3502.88,110.23,Second Class
+ORD-1074,25-04-2024,CUST025,Aditya Bhatt,Corporate,North,Uttar Pradesh,Lucknow,Electronics,Mobiles,iPhone 14,2,75000,0,150000,40185.31,497.39,Second Class
+ORD-1075,17-04-2024,CUST025,Aditya Bhatt,Consumer,South,Tamil Nadu,Coimbatore,Clothing,Women,Women Saree,3,3500,0,10500,1352.16,57.83,Same Day
+ORD-1076,04-04-2024,CUST006,Kavya Nair,Home Office,North,Delhi,Dwarka,Clothing,Women,Women Saree,2,3500,0.15,5950,1281.03,200.43,First Class
+ORD-1077,26-04-2024,CUST021,Karan Oberoi,Corporate,West,Maharashtra,Pune,Electronics,Laptops,Asus VivoBook,5,42000,0,210000,30742.85,491.42,Standard Class
+ORD-1078,14-04-2024,CUST023,Ravi Shankar,Corporate,North,Delhi,Dwarka,Clothing,Women,Women Blazer,3,3200,0.15,8160,1092.76,193.96,First Class
+ORD-1079,13-04-2024,CUST006,Kavya Nair,Home Office,South,Telangana,Warangal,Home & Kitchen,Furniture,Office Chair,4,8500,0,34000,8085.25,356.38,Standard Class
+ORD-1080,12-04-2024,CUST013,Sanjay Yadav,Corporate,South,Karnataka,Bengaluru,Electronics,Accessories,Power Bank,5,1200,0.05,5700,647.39,342.98,First Class
+ORD-1081,11-04-2024,CUST007,Deepak Gupta,Corporate,East,Odisha,Bhubaneswar,Electronics,Accessories,Bluetooth Speaker,1,4500,0.15,3825,353.28,64.82,First Class
+ORD-1082,16-04-2024,CUST005,Amit Singh,Consumer,South,Tamil Nadu,Madurai,Clothing,Kids,School Bag,2,1500,0,3000,795.47,78.08,First Class
+ORD-1083,14-04-2024,CUST004,Sneha Verma,Home Office,North,Punjab,Amritsar,Electronics,Accessories,Bluetooth Speaker,2,4500,0,9000,1601.32,211.93,Second Class
+ORD-1084,07-04-2024,CUST014,Divya Chauhan,Home Office,West,Gujarat,Surat,Electronics,Laptops,HP Pavilion,3,50000,0.1,135000,11810.37,148.39,First Class
+ORD-1085,15-04-2024,CUST024,Nisha Tiwari,Consumer,North,Punjab,Chandigarh,Home & Kitchen,Furniture,Study Table,1,6000,0,6000,806.46,431.78,Standard Class
+ORD-1086,03-04-2024,CUST003,Rohit Kumar,Consumer,North,Delhi,New Delhi,Electronics,Mobiles,iPhone 14,1,75000,0,75000,16848.88,464.24,First Class
+ORD-1087,25-04-2024,CUST012,Meera Iyer,Consumer,West,Gujarat,Vadodara,Electronics,Laptops,HP Pavilion,4,50000,0,200000,36503.1,194.29,Standard Class
+ORD-1088,12-04-2024,CUST006,Kavya Nair,Home Office,East,Bihar,Gaya,Home & Kitchen,Furniture,Study Table,2,6000,0,12000,2196.54,192.28,Second Class
+ORD-1089,20-04-2024,CUST015,Nikhil Bose,Consumer,East,Bihar,Gaya,Home & Kitchen,Furniture,Office Chair,1,8500,0,8500,1496.82,103.63,Second Class
+ORD-1090,07-04-2024,CUST005,Amit Singh,Consumer,West,Maharashtra,Nagpur,Clothing,Men,Men Jeans,2,2500,0.2,4000,734.04,468.1,Standard Class
+ORD-1091,22-04-2024,CUST020,Geeta Mishra,Corporate,West,Rajasthan,Jodhpur,Home & Kitchen,Decor,Cushion Set,5,1200,0.05,5700,604.1,396.73,Same Day
+ORD-1092,18-04-2024,CUST012,Meera Iyer,Corporate,South,Telangana,Hyderabad,Electronics,Mobiles,iPhone 14,2,75000,0.1,135000,17158.61,443.6,Second Class
+ORD-1093,17-04-2024,CUST019,Manoj Das,Corporate,East,West Bengal,Asansol,Clothing,Men,Men Jacket,5,3500,0,17500,1652.5,139,First Class
+ORD-1094,05-05-2024,CUST005,Amit Singh,Home Office,West,Gujarat,Vadodara,Clothing,Men,Men Jacket,3,3500,0.15,8925,1146.92,350.63,First Class
+ORD-1095,08-05-2024,CUST020,Geeta Mishra,Home Office,North,Punjab,Ludhiana,Home & Kitchen,Decor,Photo Frame,4,600,0,2400,503.05,256.71,Second Class
+ORD-1096,07-05-2024,CUST020,Geeta Mishra,Corporate,North,Punjab,Ludhiana,Clothing,Men,Men Jacket,1,3500,0.2,2800,748.52,389,First Class
+ORD-1097,18-05-2024,CUST003,Rohit Kumar,Consumer,West,Rajasthan,Jaipur,Home & Kitchen,Appliances,Air Fryer,2,5500,0.2,8800,746.71,280.31,Same Day
+ORD-1098,04-05-2024,CUST020,Geeta Mishra,Corporate,East,Bihar,Gaya,Home & Kitchen,Decor,Curtains,1,2500,0.1,2250,217.73,310.26,First Class
+ORD-1099,08-05-2024,CUST012,Meera Iyer,Corporate,North,Punjab,Chandigarh,Electronics,Accessories,Wireless Earbuds,2,3500,0.15,5950,766.4,178,Second Class
+ORD-1100,26-05-2024,CUST008,Anita Mehta,Home Office,West,Maharashtra,Pune,Electronics,Laptops,MacBook Air,3,115000,0.2,276000,61846.1,129.41,Standard Class
+ORD-1101,03-05-2024,CUST013,Sanjay Yadav,Consumer,West,Rajasthan,Jaipur,Electronics,Accessories,USB Hub,3,800,0.2,1920,194.43,450.56,First Class
+ORD-1102,26-05-2024,CUST016,Sunita Pandey,Consumer,South,Telangana,Hyderabad,Electronics,Laptops,HP Pavilion,5,50000,0,250000,43660.16,438.57,First Class
+ORD-1103,19-05-2024,CUST014,Divya Chauhan,Home Office,East,Bihar,Patna,Clothing,Men,Men Jeans,2,2500,0.05,4750,820.95,163.68,First Class
+ORD-1104,23-05-2024,CUST013,Sanjay Yadav,Corporate,North,Punjab,Chandigarh,Electronics,Mobiles,Redmi Note 12,5,18000,0.15,76500,14291.83,249.01,Same Day
+ORD-1105,18-05-2024,CUST002,Priya Patel,Home Office,South,Karnataka,Mysuru,Home & Kitchen,Decor,Curtains,4,2500,0,10000,1175.09,84.06,Same Day
+ORD-1106,06-05-2024,CUST005,Amit Singh,Home Office,South,Tamil Nadu,Coimbatore,Home & Kitchen,Decor,Cushion Set,1,1200,0.1,1080,252.23,334.92,Standard Class
+ORD-1107,25-05-2024,CUST007,Deepak Gupta,Corporate,West,Rajasthan,Jaipur,Electronics,Laptops,Asus VivoBook,3,42000,0,126000,16873.07,104.95,Same Day
+ORD-1108,10-05-2024,CUST015,Nikhil Bose,Corporate,West,Rajasthan,Jaipur,Electronics,Mobiles,Vivo V27,5,22000,0,110000,20304.69,458.19,First Class
+ORD-1109,17-05-2024,CUST010,Pooja Reddy,Corporate,North,Punjab,Amritsar,Clothing,Men,Men Jeans,3,2500,0.15,6375,990.21,66.42,First Class
+ORD-1110,19-05-2024,CUST016,Sunita Pandey,Home Office,West,Maharashtra,Mumbai,Home & Kitchen,Furniture,Sofa,5,25000,0,125000,15415.49,372.01,Same Day
+ORD-1111,11-05-2024,CUST004,Sneha Verma,Corporate,North,Uttar Pradesh,Noida,Electronics,Accessories,Smartwatch,4,8000,0,32000,7774.95,164.3,Second Class
+ORD-1112,21-05-2024,CUST005,Amit Singh,Consumer,East,Odisha,Cuttack,Clothing,Men,Men Shoes,4,2800,0.1,10080,2539.74,189.73,Same Day
+ORD-1113,21-05-2024,CUST024,Nisha Tiwari,Consumer,East,West Bengal,Siliguri,Electronics,Laptops,Dell Inspiron,1,55000,0.2,44000,9584.79,244.29,Standard Class
+ORD-1114,11-05-2024,CUST017,Arjun Malhotra,Corporate,West,Rajasthan,Jodhpur,Electronics,Accessories,Wireless Earbuds,3,3500,0.1,9450,2098.79,327.61,Second Class
+ORD-1115,25-05-2024,CUST004,Sneha Verma,Consumer,East,Odisha,Bhubaneswar,Clothing,Kids,School Bag,3,1500,0,4500,1013.45,160.15,Standard Class
+ORD-1116,10-05-2024,CUST004,Sneha Verma,Home Office,North,Punjab,Ludhiana,Home & Kitchen,Furniture,Bookshelf,5,4500,0,22500,5865.44,258.08,Second Class
+ORD-1117,27-06-2024,CUST012,Meera Iyer,Home Office,North,Uttar Pradesh,Agra,Clothing,Men,Men Jeans,5,2500,0.2,10000,1781.33,134.14,First Class
+ORD-1118,25-06-2024,CUST016,Sunita Pandey,Home Office,North,Punjab,Amritsar,Electronics,Accessories,Wireless Earbuds,1,3500,0,3500,521.07,251.42,Second Class
+ORD-1119,19-06-2024,CUST021,Karan Oberoi,Home Office,West,Rajasthan,Jodhpur,Electronics,Mobiles,Redmi Note 12,5,18000,0,90000,12755,404.75,Standard Class
+ORD-1120,01-06-2024,CUST019,Manoj Das,Consumer,East,Odisha,Cuttack,Electronics,Laptops,Lenovo IdeaPad,1,45000,0,45000,8831.26,81.75,First Class
+ORD-1121,19-06-2024,CUST007,Deepak Gupta,Consumer,South,Telangana,Warangal,Electronics,Mobiles,iPhone 14,5,75000,0,375000,84449.9,51.43,Standard Class
+ORD-1122,14-06-2024,CUST015,Nikhil Bose,Corporate,East,West Bengal,Siliguri,Electronics,Laptops,HP Pavilion,5,50000,0,250000,64909.52,155.21,Standard Class
+ORD-1123,11-06-2024,CUST002,Priya Patel,Consumer,North,Delhi,Rohini,Home & Kitchen,Decor,Wall Clock,4,1500,0,6000,748.43,304.23,Standard Class
+ORD-1124,27-06-2024,CUST020,Geeta Mishra,Home Office,South,Tamil Nadu,Coimbatore,Home & Kitchen,Appliances,Air Fryer,3,5500,0.05,15675,1890.78,188.79,Same Day
+ORD-1125,25-06-2024,CUST009,Vikram Joshi,Corporate,West,Rajasthan,Jaipur,Home & Kitchen,Appliances,Induction Cooktop,2,4000,0,8000,985.14,378.57,Same Day
+ORD-1126,28-06-2024,CUST022,Shruti Agarwal,Corporate,West,Rajasthan,Jodhpur,Clothing,Women,Women Saree,2,3500,0,7000,803.92,93.48,Standard Class
+ORD-1127,10-06-2024,CUST014,Divya Chauhan,Home Office,South,Tamil Nadu,Chennai,Clothing,Men,Men Shoes,1,2800,0.05,2660,528.84,154.19,Standard Class
+ORD-1128,18-06-2024,CUST016,Sunita Pandey,Home Office,South,Karnataka,Bengaluru,Electronics,Laptops,MacBook Air,5,115000,0,575000,114209.14,158.65,First Class
+ORD-1129,23-06-2024,CUST011,Rahul Tiwari,Home Office,West,Maharashtra,Mumbai,Electronics,Laptops,HP Pavilion,2,50000,0.1,90000,10659.77,332.92,Second Class
+ORD-1130,18-06-2024,CUST018,Riya Kapoor,Home Office,South,Telangana,Warangal,Electronics,Laptops,HP Pavilion,1,50000,0,50000,7388.56,101.69,Second Class
+ORD-1131,17-06-2024,CUST012,Meera Iyer,Home Office,East,Odisha,Bhubaneswar,Clothing,Women,Women Shoes,3,2400,0.1,6480,630.48,231.5,Standard Class
+ORD-1132,11-06-2024,CUST020,Geeta Mishra,Consumer,West,Rajasthan,Jaipur,Clothing,Men,Men Jeans,4,2500,0.05,9500,1421.79,229.62,Same Day
+ORD-1133,16-06-2024,CUST013,Sanjay Yadav,Corporate,West,Rajasthan,Jodhpur,Electronics,Accessories,USB Hub,3,800,0,2400,604.21,312.62,Second Class
+ORD-1134,16-06-2024,CUST010,Pooja Reddy,Consumer,West,Rajasthan,Jodhpur,Electronics,Mobiles,Vivo V27,3,22000,0,66000,5281.64,80.31,Standard Class
+ORD-1135,02-06-2024,CUST014,Divya Chauhan,Corporate,East,Bihar,Gaya,Home & Kitchen,Appliances,Mixer Grinder,5,3200,0.15,13600,1483.26,405,Same Day
+ORD-1136,15-06-2024,CUST007,Deepak Gupta,Consumer,North,Uttar Pradesh,Lucknow,Clothing,Men,Men Shirt,1,1200,0.05,1140,131.07,229.45,Standard Class
+ORD-1137,07-07-2024,CUST023,Ravi Shankar,Consumer,East,Bihar,Gaya,Home & Kitchen,Furniture,Bed Frame,3,18000,0.15,45900,3827.06,201.13,Second Class
+ORD-1138,12-07-2024,CUST021,Karan Oberoi,Home Office,North,Uttar Pradesh,Kanpur,Home & Kitchen,Decor,Table Lamp,2,1800,0.05,3420,340.03,74.25,First Class
+ORD-1139,26-07-2024,CUST006,Kavya Nair,Home Office,North,Uttar Pradesh,Kanpur,Electronics,Accessories,Power Bank,3,1200,0,3600,409.51,161.74,Same Day
+ORD-1140,26-07-2024,CUST002,Priya Patel,Consumer,North,Punjab,Chandigarh,Clothing,Kids,Kids Jacket,5,1800,0,9000,2388.19,118.99,First Class
+ORD-1141,10-07-2024,CUST006,Kavya Nair,Corporate,North,Delhi,New Delhi,Home & Kitchen,Decor,Curtains,3,2500,0,7500,1624.06,139,First Class
+ORD-1142,16-07-2024,CUST024,Nisha Tiwari,Home Office,North,Delhi,Rohini,Electronics,Laptops,Lenovo IdeaPad,3,45000,0,135000,21433.97,354.7,Second Class
+ORD-1143,18-07-2024,CUST013,Sanjay Yadav,Corporate,West,Maharashtra,Mumbai,Electronics,Laptops,MacBook Air,5,115000,0.05,546250,100289.35,359.04,Second Class
+ORD-1144,12-07-2024,CUST013,Sanjay Yadav,Consumer,North,Uttar Pradesh,Noida,Home & Kitchen,Decor,Photo Frame,5,600,0.05,2850,572.76,265.65,Same Day
+ORD-1145,01-07-2024,CUST017,Arjun Malhotra,Home Office,East,West Bengal,Siliguri,Electronics,Mobiles,Samsung S23,1,55000,0.1,49500,7109.43,192.67,Second Class
+ORD-1146,09-07-2024,CUST014,Divya Chauhan,Consumer,West,Maharashtra,Mumbai,Home & Kitchen,Decor,Photo Frame,4,600,0,2400,646.7,369.72,Second Class
+ORD-1147,16-07-2024,CUST012,Meera Iyer,Consumer,West,Gujarat,Vadodara,Clothing,Men,Men Jeans,2,2500,0.2,4000,338.1,177.91,First Class
+ORD-1148,04-07-2024,CUST019,Manoj Das,Consumer,East,Bihar,Patna,Home & Kitchen,Decor,Photo Frame,4,600,0,2400,547.67,87.1,Second Class
+ORD-1149,17-07-2024,CUST015,Nikhil Bose,Consumer,North,Delhi,Rohini,Home & Kitchen,Decor,Curtains,1,2500,0.2,2000,310.19,304.23,First Class
+ORD-1150,15-07-2024,CUST004,Sneha Verma,Consumer,South,Tamil Nadu,Coimbatore,Electronics,Accessories,USB Hub,4,800,0,3200,404.54,358.42,Second Class
+ORD-1151,15-07-2024,CUST014,Divya Chauhan,Corporate,North,Uttar Pradesh,Lucknow,Electronics,Mobiles,iPhone 14,5,75000,0,375000,54261.65,193.36,First Class
+ORD-1152,28-07-2024,CUST002,Priya Patel,Corporate,North,Delhi,Rohini,Electronics,Mobiles,iPhone 14,1,75000,0,75000,13206.77,450.39,Same Day
+ORD-1153,06-07-2024,CUST014,Divya Chauhan,Home Office,West,Rajasthan,Jaipur,Clothing,Kids,School Bag,1,1500,0,1500,362.81,145.87,Same Day
+ORD-1154,26-07-2024,CUST015,Nikhil Bose,Home Office,East,West Bengal,Siliguri,Home & Kitchen,Appliances,Toaster,1,2200,0,2200,539.27,477.28,Standard Class
+ORD-1155,25-07-2024,CUST014,Divya Chauhan,Corporate,South,Tamil Nadu,Coimbatore,Clothing,Men,Men Jeans,3,2500,0,7500,1529.61,230.01,Second Class
+ORD-1156,28-07-2024,CUST007,Deepak Gupta,Corporate,West,Maharashtra,Pune,Clothing,Kids,Kids Shoes,2,1000,0.1,1800,483.19,214.33,Second Class
+ORD-1157,24-07-2024,CUST002,Priya Patel,Consumer,North,Punjab,Chandigarh,Home & Kitchen,Appliances,Air Fryer,4,5500,0,22000,5274.39,82.7,First Class
+ORD-1158,03-07-2024,CUST002,Priya Patel,Corporate,South,Tamil Nadu,Madurai,Clothing,Women,Women Dress,4,2200,0.1,7920,1601.21,396.9,Second Class
+ORD-1159,13-07-2024,CUST018,Riya Kapoor,Consumer,South,Telangana,Hyderabad,Clothing,Women,Women Kurti,1,900,0,900,81.69,53.9,Second Class
+ORD-1160,22-08-2024,CUST009,Vikram Joshi,Home Office,North,Delhi,New Delhi,Clothing,Women,Women Blazer,2,3200,0.15,5440,1361.01,183.12,Second Class
+ORD-1161,26-08-2024,CUST024,Nisha Tiwari,Home Office,North,Uttar Pradesh,Kanpur,Home & Kitchen,Decor,Wall Clock,2,1500,0.2,2400,432.92,73.28,Second Class
+ORD-1162,03-08-2024,CUST012,Meera Iyer,Home Office,North,Punjab,Amritsar,Electronics,Laptops,Dell Inspiron,5,55000,0,275000,40830,224.25,Same Day
+ORD-1163,03-08-2024,CUST010,Pooja Reddy,Consumer,North,Uttar Pradesh,Lucknow,Clothing,Men,Men Jeans,3,2500,0,7500,830,450.02,First Class
+ORD-1164,17-08-2024,CUST008,Anita Mehta,Consumer,West,Rajasthan,Jodhpur,Home & Kitchen,Decor,Wall Clock,1,1500,0.1,1350,329.12,300.93,Second Class
+ORD-1165,12-08-2024,CUST014,Divya Chauhan,Corporate,South,Karnataka,Bengaluru,Home & Kitchen,Appliances,Mixer Grinder,3,3200,0.2,7680,1939.15,378.25,First Class
+ORD-1166,22-08-2024,CUST018,Riya Kapoor,Corporate,East,Bihar,Patna,Electronics,Mobiles,iPhone 14,2,75000,0.1,135000,29057.67,205.12,Standard Class
+ORD-1167,21-08-2024,CUST007,Deepak Gupta,Corporate,West,Gujarat,Vadodara,Clothing,Women,Women Shoes,3,2400,0.05,6840,1900.78,295.97,First Class
+ORD-1168,19-08-2024,CUST007,Deepak Gupta,Consumer,East,Bihar,Gaya,Electronics,Laptops,Lenovo IdeaPad,4,45000,0.2,144000,39370.3,53.89,Second Class
+ORD-1169,16-08-2024,CUST008,Anita Mehta,Corporate,South,Telangana,Warangal,Home & Kitchen,Appliances,Electric Kettle,4,1800,0.05,6840,1855.12,466.86,First Class
+ORD-1170,05-08-2024,CUST007,Deepak Gupta,Consumer,West,Rajasthan,Jodhpur,Home & Kitchen,Decor,Photo Frame,4,600,0.2,1920,198.57,127.88,Same Day
+ORD-1171,10-08-2024,CUST004,Sneha Verma,Home Office,North,Uttar Pradesh,Kanpur,Home & Kitchen,Decor,Table Lamp,4,1800,0.1,6480,1262.5,499.01,Standard Class
+ORD-1172,19-08-2024,CUST006,Kavya Nair,Corporate,North,Punjab,Chandigarh,Electronics,Laptops,Lenovo IdeaPad,3,45000,0,135000,11408.48,343.27,Second Class
+ORD-1173,23-08-2024,CUST005,Amit Singh,Corporate,South,Telangana,Warangal,Clothing,Women,Women Blazer,5,3200,0,16000,3238.38,83.21,Same Day
+ORD-1174,11-08-2024,CUST010,Pooja Reddy,Consumer,North,Uttar Pradesh,Agra,Electronics,Mobiles,OnePlus 11,3,40000,0,120000,10048.05,129.86,Same Day
+ORD-1175,19-08-2024,CUST012,Meera Iyer,Consumer,North,Uttar Pradesh,Noida,Home & Kitchen,Furniture,Office Chair,4,8500,0.05,32300,7857.74,131.93,Standard Class
+ORD-1176,16-08-2024,CUST003,Rohit Kumar,Consumer,West,Rajasthan,Jodhpur,Home & Kitchen,Appliances,Induction Cooktop,5,4000,0.2,16000,3911.82,483.66,Same Day
+ORD-1177,12-08-2024,CUST014,Divya Chauhan,Consumer,North,Delhi,Dwarka,Home & Kitchen,Decor,Wall Clock,2,1500,0.1,2700,542.39,208.92,Same Day
+ORD-1178,21-08-2024,CUST024,Nisha Tiwari,Home Office,South,Tamil Nadu,Chennai,Home & Kitchen,Appliances,Toaster,3,2200,0,6600,1766.6,161.93,Same Day
+ORD-1179,25-08-2024,CUST004,Sneha Verma,Home Office,South,Tamil Nadu,Chennai,Electronics,Laptops,MacBook Air,5,115000,0.2,460000,60571.18,335.56,Second Class
+ORD-1180,16-08-2024,CUST003,Rohit Kumar,Consumer,South,Karnataka,Mangaluru,Home & Kitchen,Furniture,Study Table,3,6000,0.15,15300,2150.38,328.95,Standard Class
+ORD-1181,16-08-2024,CUST018,Riya Kapoor,Corporate,East,Odisha,Bhubaneswar,Home & Kitchen,Appliances,Air Fryer,5,5500,0,27500,6959.98,171.57,Same Day
+ORD-1182,25-08-2024,CUST003,Rohit Kumar,Home Office,West,Rajasthan,Jaipur,Home & Kitchen,Furniture,Study Table,4,6000,0,24000,5426.61,295.77,First Class
+ORD-1183,18-08-2024,CUST008,Anita Mehta,Home Office,West,Maharashtra,Pune,Home & Kitchen,Furniture,Office Chair,5,8500,0,42500,3801.02,53.56,Standard Class
+ORD-1184,27-08-2024,CUST004,Sneha Verma,Corporate,South,Tamil Nadu,Madurai,Clothing,Kids,Kids T-Shirt,1,600,0,600,60.64,250.25,First Class
+ORD-1185,09-08-2024,CUST016,Sunita Pandey,Corporate,East,Odisha,Cuttack,Home & Kitchen,Decor,Curtains,4,2500,0,10000,2517.74,77.26,First Class
+ORD-1186,22-08-2024,CUST014,Divya Chauhan,Home Office,North,Punjab,Ludhiana,Home & Kitchen,Decor,Table Lamp,5,1800,0,9000,1086.24,54.31,Standard Class
+ORD-1187,23-09-2024,CUST014,Divya Chauhan,Home Office,North,Punjab,Chandigarh,Clothing,Women,Women Saree,4,3500,0,14000,3225.61,111.22,Standard Class
+ORD-1188,05-09-2024,CUST003,Rohit Kumar,Corporate,North,Punjab,Chandigarh,Clothing,Kids,School Bag,5,1500,0.2,6000,824.18,498.8,Second Class
+ORD-1189,15-09-2024,CUST022,Shruti Agarwal,Consumer,West,Gujarat,Ahmedabad,Electronics,Accessories,Smartwatch,2,8000,0.2,12800,2951.36,234.61,Standard Class
+ORD-1190,10-09-2024,CUST013,Sanjay Yadav,Corporate,North,Punjab,Amritsar,Home & Kitchen,Decor,Wall Clock,1,1500,0.15,1275,237.19,322.04,First Class
+ORD-1191,07-09-2024,CUST012,Meera Iyer,Consumer,North,Punjab,Ludhiana,Home & Kitchen,Appliances,Electric Kettle,2,1800,0.2,2880,796.66,122.17,Second Class
+ORD-1192,23-09-2024,CUST014,Divya Chauhan,Home Office,North,Punjab,Chandigarh,Home & Kitchen,Decor,Photo Frame,4,600,0.2,1920,191.04,410.86,First Class
+ORD-1193,08-09-2024,CUST009,Vikram Joshi,Consumer,South,Karnataka,Mangaluru,Clothing,Women,Women Dress,4,2200,0,8800,770.56,437.04,Standard Class
+ORD-1194,15-09-2024,CUST001,Aarav Sharma,Consumer,North,Uttar Pradesh,Lucknow,Clothing,Kids,Kids T-Shirt,5,600,0.15,2550,409.58,167.65,Standard Class
+ORD-1195,04-09-2024,CUST025,Aditya Bhatt,Consumer,East,Bihar,Patna,Electronics,Laptops,MacBook Air,4,115000,0,460000,65845.62,352.17,Second Class
+ORD-1196,26-09-2024,CUST022,Shruti Agarwal,Corporate,South,Karnataka,Mysuru,Home & Kitchen,Decor,Wall Clock,1,1500,0.2,1200,167.46,128.51,First Class
+ORD-1197,19-09-2024,CUST008,Anita Mehta,Consumer,East,Bihar,Gaya,Home & Kitchen,Furniture,Bookshelf,5,4500,0.2,18000,2204.65,105.03,Standard Class
+ORD-1198,08-09-2024,CUST015,Nikhil Bose,Home Office,West,Rajasthan,Jaipur,Electronics,Mobiles,Vivo V27,2,22000,0,44000,9369.33,405.71,Standard Class
+ORD-1199,10-09-2024,CUST020,Geeta Mishra,Corporate,South,Karnataka,Bengaluru,Home & Kitchen,Decor,Table Lamp,5,1800,0.2,7200,1214.36,310.86,Same Day
+ORD-1200,07-09-2024,CUST015,Nikhil Bose,Consumer,East,West Bengal,Siliguri,Clothing,Men,Men Shirt,3,1200,0.15,3060,659.96,430.16,Same Day
+ORD-1201,25-09-2024,CUST017,Arjun Malhotra,Corporate,South,Tamil Nadu,Chennai,Clothing,Men,Men Shoes,5,2800,0,14000,1355.35,197.41,Same Day
+ORD-1202,16-09-2024,CUST007,Deepak Gupta,Consumer,West,Maharashtra,Mumbai,Electronics,Accessories,Power Bank,5,1200,0.1,5400,623.96,161.95,Same Day
+ORD-1203,18-09-2024,CUST007,Deepak Gupta,Consumer,North,Punjab,Amritsar,Clothing,Kids,Kids T-Shirt,1,600,0,600,124.54,220.82,Same Day
+ORD-1204,01-09-2024,CUST023,Ravi Shankar,Home Office,North,Punjab,Chandigarh,Clothing,Men,Men Kurta,1,1500,0.1,1350,188.49,428.19,Standard Class
+ORD-1205,19-09-2024,CUST022,Shruti Agarwal,Corporate,North,Uttar Pradesh,Kanpur,Clothing,Kids,School Bag,3,1500,0,4500,1124.31,58.45,Second Class
+ORD-1206,05-09-2024,CUST024,Nisha Tiwari,Home Office,East,West Bengal,Kolkata,Electronics,Accessories,USB Hub,1,800,0.2,640,59.2,323.71,Same Day
+ORD-1207,06-09-2024,CUST001,Aarav Sharma,Home Office,East,Odisha,Cuttack,Clothing,Men,Men Shirt,4,1200,0,4800,1081.52,156.76,Standard Class
+ORD-1208,11-10-2024,CUST005,Amit Singh,Consumer,North,Punjab,Chandigarh,Home & Kitchen,Decor,Table Lamp,3,1800,0,5400,1429.87,411.09,Same Day
+ORD-1209,06-10-2024,CUST016,Sunita Pandey,Home Office,South,Karnataka,Mangaluru,Home & Kitchen,Decor,Table Lamp,3,1800,0.1,4860,979,265.57,First Class
+ORD-1210,17-10-2024,CUST001,Aarav Sharma,Home Office,West,Maharashtra,Pune,Clothing,Men,Men Shirt,5,1200,0,6000,532.27,272.8,Second Class
+ORD-1211,22-10-2024,CUST024,Nisha Tiwari,Corporate,East,West Bengal,Siliguri,Home & Kitchen,Furniture,Bookshelf,2,4500,0.2,7200,1809.34,445.18,First Class
+ORD-1212,07-10-2024,CUST011,Rahul Tiwari,Corporate,West,Rajasthan,Jodhpur,Home & Kitchen,Appliances,Electric Kettle,2,1800,0.05,3420,821.7,403.17,First Class
+ORD-1213,10-10-2024,CUST001,Aarav Sharma,Corporate,West,Gujarat,Surat,Home & Kitchen,Appliances,Air Fryer,1,5500,0.2,4400,1000.11,175.43,First Class
+ORD-1214,02-10-2024,CUST024,Nisha Tiwari,Corporate,West,Gujarat,Surat,Clothing,Women,Women Saree,5,3500,0.05,16625,2239.99,347.38,Standard Class
+ORD-1215,01-10-2024,CUST004,Sneha Verma,Consumer,South,Karnataka,Mangaluru,Clothing,Women,Women Shoes,4,2400,0.05,9120,1568.81,218.02,Same Day
+ORD-1216,16-10-2024,CUST008,Anita Mehta,Consumer,North,Punjab,Ludhiana,Electronics,Mobiles,Vivo V27,5,22000,0,110000,28980.46,140.81,First Class
+ORD-1217,22-10-2024,CUST010,Pooja Reddy,Corporate,North,Delhi,New Delhi,Home & Kitchen,Appliances,Induction Cooktop,5,4000,0,20000,4933.12,362.56,Same Day
+ORD-1218,07-10-2024,CUST020,Geeta Mishra,Consumer,East,Odisha,Cuttack,Electronics,Accessories,Wireless Earbuds,1,3500,0.15,2975,826.34,439.93,Second Class
+ORD-1219,20-10-2024,CUST025,Aditya Bhatt,Corporate,East,Odisha,Bhubaneswar,Home & Kitchen,Furniture,Bookshelf,5,4500,0,22500,2641.54,176.43,Same Day
+ORD-1220,23-10-2024,CUST024,Nisha Tiwari,Corporate,West,Rajasthan,Jaipur,Home & Kitchen,Appliances,Induction Cooktop,1,4000,0,4000,733.16,283.31,Same Day
+ORD-1221,08-10-2024,CUST010,Pooja Reddy,Home Office,North,Uttar Pradesh,Kanpur,Clothing,Men,Men Jeans,3,2500,0.15,6375,1769.86,222.23,Second Class
+ORD-1222,15-10-2024,CUST019,Manoj Das,Home Office,South,Telangana,Warangal,Home & Kitchen,Appliances,Induction Cooktop,5,4000,0,20000,2418.85,103.71,Standard Class
+ORD-1223,04-10-2024,CUST008,Anita Mehta,Consumer,East,Bihar,Gaya,Home & Kitchen,Furniture,Bookshelf,1,4500,0,4500,913.38,110.15,First Class
+ORD-1224,11-10-2024,CUST021,Karan Oberoi,Consumer,South,Telangana,Warangal,Home & Kitchen,Decor,Cushion Set,4,1200,0,4800,751.53,416.86,Standard Class
+ORD-1225,17-10-2024,CUST022,Shruti Agarwal,Consumer,West,Rajasthan,Jodhpur,Electronics,Laptops,Dell Inspiron,5,55000,0.05,261250,69233.39,455.34,First Class
+ORD-1226,23-10-2024,CUST010,Pooja Reddy,Consumer,West,Gujarat,Ahmedabad,Home & Kitchen,Furniture,Sofa,2,25000,0.2,40000,3503.39,361.37,Standard Class
+ORD-1227,07-10-2024,CUST023,Ravi Shankar,Corporate,East,West Bengal,Kolkata,Clothing,Women,Women Dress,3,2200,0,6600,625.89,371.99,First Class
+ORD-1228,27-10-2024,CUST006,Kavya Nair,Consumer,West,Gujarat,Surat,Electronics,Accessories,Bluetooth Speaker,2,4500,0.1,8100,1221.39,483.39,Second Class
+ORD-1229,19-10-2024,CUST023,Ravi Shankar,Corporate,West,Rajasthan,Jodhpur,Home & Kitchen,Appliances,Toaster,5,2200,0.2,8800,1844.44,147.99,Standard Class
+ORD-1230,26-10-2024,CUST021,Karan Oberoi,Home Office,East,Odisha,Bhubaneswar,Electronics,Mobiles,Redmi Note 12,5,18000,0,90000,17792.75,191.15,Standard Class
+ORD-1231,02-11-2024,CUST023,Ravi Shankar,Home Office,West,Rajasthan,Jodhpur,Electronics,Laptops,Asus VivoBook,3,42000,0.05,119700,28875.21,472.1,Same Day
+ORD-1232,17-11-2024,CUST012,Meera Iyer,Corporate,West,Maharashtra,Nagpur,Clothing,Men,Men Shirt,5,1200,0,6000,520.78,472.72,Same Day
+ORD-1233,05-11-2024,CUST010,Pooja Reddy,Home Office,East,Bihar,Patna,Electronics,Mobiles,Samsung S23,2,55000,0,110000,21330.62,275.78,First Class
+ORD-1234,15-11-2024,CUST012,Meera Iyer,Corporate,South,Tamil Nadu,Madurai,Clothing,Kids,School Bag,3,1500,0.05,4275,1054.02,480.07,Same Day
+ORD-1235,08-11-2024,CUST017,Arjun Malhotra,Corporate,North,Delhi,Rohini,Clothing,Women,Women Saree,1,3500,0,3500,892.04,403.49,First Class
+ORD-1236,24-11-2024,CUST016,Sunita Pandey,Consumer,West,Rajasthan,Jaipur,Electronics,Laptops,Dell Inspiron,1,55000,0,55000,6602.51,151.53,Same Day
+ORD-1237,17-11-2024,CUST025,Aditya Bhatt,Home Office,West,Gujarat,Surat,Home & Kitchen,Appliances,Toaster,1,2200,0.05,2090,553.77,431.79,Same Day
+ORD-1238,24-11-2024,CUST016,Sunita Pandey,Consumer,South,Telangana,Warangal,Home & Kitchen,Furniture,Bookshelf,5,4500,0,22500,2047.15,224.14,Second Class
+ORD-1239,07-11-2024,CUST019,Manoj Das,Corporate,South,Karnataka,Mysuru,Home & Kitchen,Furniture,Office Chair,1,8500,0,8500,1452.35,377.84,Standard Class
+ORD-1240,09-11-2024,CUST021,Karan Oberoi,Consumer,West,Rajasthan,Jaipur,Electronics,Mobiles,Samsung S23,1,55000,0.15,46750,10253.43,226.28,Second Class
+ORD-1241,08-11-2024,CUST004,Sneha Verma,Corporate,North,Uttar Pradesh,Kanpur,Home & Kitchen,Decor,Wall Clock,1,1500,0.1,1350,123.68,420.62,Second Class
+ORD-1242,09-11-2024,CUST011,Rahul Tiwari,Home Office,North,Punjab,Chandigarh,Home & Kitchen,Decor,Table Lamp,1,1800,0,1800,260.03,72.35,Standard Class
+ORD-1243,27-11-2024,CUST016,Sunita Pandey,Corporate,West,Gujarat,Surat,Home & Kitchen,Appliances,Mixer Grinder,2,3200,0.1,5760,1220.62,172.24,Same Day
+ORD-1244,09-11-2024,CUST012,Meera Iyer,Corporate,North,Delhi,Dwarka,Home & Kitchen,Furniture,Study Table,4,6000,0.15,20400,2311.03,387.67,First Class
+ORD-1245,27-11-2024,CUST018,Riya Kapoor,Consumer,South,Telangana,Hyderabad,Home & Kitchen,Furniture,Bookshelf,4,4500,0.15,15300,2497.43,309.48,Same Day
+ORD-1246,12-11-2024,CUST020,Geeta Mishra,Consumer,West,Rajasthan,Jaipur,Home & Kitchen,Appliances,Air Fryer,4,5500,0.15,18700,4901.66,140.42,Second Class
+ORD-1247,05-11-2024,CUST016,Sunita Pandey,Consumer,East,West Bengal,Asansol,Clothing,Kids,Kids Jacket,1,1800,0,1800,287.43,335.05,Standard Class
+ORD-1248,19-11-2024,CUST018,Riya Kapoor,Consumer,East,Odisha,Bhubaneswar,Home & Kitchen,Furniture,Study Table,1,6000,0.15,5100,778.73,190.85,First Class
+ORD-1249,10-11-2024,CUST006,Kavya Nair,Home Office,West,Rajasthan,Jodhpur,Clothing,Women,Women Blazer,2,3200,0.05,6080,1019.16,169.12,Standard Class
+ORD-1250,07-11-2024,CUST003,Rohit Kumar,Home Office,West,Maharashtra,Pune,Home & Kitchen,Appliances,Induction Cooktop,3,4000,0,12000,1567.16,468.3,First Class
+ORD-1251,04-11-2024,CUST007,Deepak Gupta,Consumer,South,Tamil Nadu,Coimbatore,Home & Kitchen,Decor,Cushion Set,5,1200,0.05,5700,719.1,165.93,First Class
+ORD-1252,17-11-2024,CUST023,Ravi Shankar,Corporate,East,Bihar,Gaya,Clothing,Kids,Kids Jeans,3,1200,0.1,3240,533.66,345.18,First Class
+ORD-1253,03-12-2024,CUST009,Vikram Joshi,Corporate,South,Tamil Nadu,Chennai,Clothing,Women,Women Blazer,4,3200,0,12800,2109.42,184.13,Same Day
+ORD-1254,02-12-2024,CUST019,Manoj Das,Consumer,South,Tamil Nadu,Chennai,Home & Kitchen,Appliances,Electric Kettle,1,1800,0.1,1620,254.99,328.07,First Class
+ORD-1255,03-12-2024,CUST009,Vikram Joshi,Corporate,South,Karnataka,Mangaluru,Clothing,Men,Men Shirt,5,1200,0,6000,1056.22,359.28,Standard Class
+ORD-1256,02-12-2024,CUST012,Meera Iyer,Corporate,West,Gujarat,Surat,Clothing,Kids,Kids Jeans,4,1200,0.1,4320,738.91,239.33,Standard Class
+ORD-1257,23-12-2024,CUST004,Sneha Verma,Corporate,East,Bihar,Gaya,Home & Kitchen,Appliances,Air Fryer,4,5500,0,22000,5758.01,220.82,Standard Class
+ORD-1258,07-12-2024,CUST001,Aarav Sharma,Corporate,East,West Bengal,Kolkata,Home & Kitchen,Appliances,Air Fryer,5,5500,0.1,24750,4934.63,51.72,First Class
+ORD-1259,28-12-2024,CUST021,Karan Oberoi,Consumer,South,Karnataka,Mangaluru,Home & Kitchen,Decor,Cushion Set,3,1200,0.2,2880,764.18,409.96,Second Class
+ORD-1260,11-12-2024,CUST005,Amit Singh,Home Office,North,Delhi,Rohini,Home & Kitchen,Decor,Cushion Set,4,1200,0.2,3840,845.21,499.5,First Class
+ORD-1261,02-12-2024,CUST017,Arjun Malhotra,Consumer,South,Tamil Nadu,Coimbatore,Home & Kitchen,Decor,Wall Clock,1,1500,0,1500,339.67,347.38,Second Class
+ORD-1262,18-12-2024,CUST025,Aditya Bhatt,Home Office,South,Karnataka,Mysuru,Clothing,Men,Men Kurta,3,1500,0,4500,648.27,126.49,Same Day
+ORD-1263,23-12-2024,CUST013,Sanjay Yadav,Consumer,East,West Bengal,Kolkata,Electronics,Accessories,Power Bank,3,1200,0,3600,650.09,199.43,Second Class
+ORD-1264,16-12-2024,CUST024,Nisha Tiwari,Corporate,East,Odisha,Cuttack,Electronics,Accessories,Power Bank,1,1200,0.2,960,250.1,336.95,Second Class
+ORD-1265,25-12-2024,CUST015,Nikhil Bose,Corporate,West,Gujarat,Ahmedabad,Home & Kitchen,Appliances,Induction Cooktop,2,4000,0.1,7200,1044.5,238.34,Standard Class
+ORD-1266,19-12-2024,CUST001,Aarav Sharma,Consumer,West,Gujarat,Surat,Electronics,Accessories,Wireless Earbuds,4,3500,0.1,12600,2227.46,412.63,Second Class
+ORD-1267,12-12-2024,CUST001,Aarav Sharma,Consumer,West,Gujarat,Vadodara,Electronics,Mobiles,Vivo V27,2,22000,0,44000,5940.37,168,Second Class
+ORD-1268,01-12-2024,CUST020,Geeta Mishra,Consumer,West,Gujarat,Vadodara,Clothing,Kids,School Bag,5,1500,0,7500,1900.05,456.49,Same Day
+ORD-1269,28-12-2024,CUST025,Aditya Bhatt,Consumer,North,Delhi,Rohini,Clothing,Kids,School Bag,1,1500,0,1500,307.62,148.57,First Class
+ORD-1270,06-12-2024,CUST007,Deepak Gupta,Home Office,West,Maharashtra,Pune,Electronics,Laptops,MacBook Air,3,115000,0,345000,54591,376.34,Second Class
+ORD-1271,03-12-2024,CUST012,Meera Iyer,Corporate,North,Delhi,Rohini,Home & Kitchen,Furniture,Bookshelf,4,4500,0,18000,2317.84,135.18,Standard Class
+ORD-1272,16-12-2024,CUST004,Sneha Verma,Consumer,North,Delhi,Rohini,Home & Kitchen,Furniture,Study Table,4,6000,0.2,19200,4298.45,465.49,First Class
+ORD-1273,03-12-2024,CUST012,Meera Iyer,Consumer,East,Odisha,Bhubaneswar,Clothing,Women,Women Shoes,1,2400,0,2400,615.9,371.11,Second Class
+ORD-1274,05-12-2024,CUST003,Rohit Kumar,Corporate,East,Bihar,Gaya,Home & Kitchen,Furniture,Sofa,3,25000,0,75000,13041.3,69.95,Same Day
